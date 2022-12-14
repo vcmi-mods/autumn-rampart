@@ -1,0 +1,16 @@
+{
+	"name" : "Autumn Rampart",
+	"description" : "Alternative, darker Rampart",
+	"author" : "Irhak alias Kreegan",
+	"version" : "0.92",
+	"modType" : "Town",	
+	"contact" : "http://www.forum.acidcave.net/profile.php?UID=1646",	
+	"changelog" :
+	{
+	"0.92"   : [ "Fixed problem with map editor" ],
+	"0.91"   : [ "Adds Fountain of Fortune def", "Small fixes" ],
+	"0.9"   : [ "Initial release" ]
+	},
+	"factions" : [ "config/town.json" ],	
+	"creatures" :[ "config/creatures/creatures.json" ]
+}
