@@ -7,13 +7,17 @@
 	"contact" : "http://www.forum.acidcave.net/profile.php?UID=1646",	
 	"licenseName" : "Creative Commons Attribution-ShareAlike",
 	"licenseURL" : "http://creativecommons.org/licenses/by-sa/4.0/deed",
+	"conflicts" :
+    [
+        "another-rampart"
+    ],
 	"compatibility" :
 	{
 		"min" : "1.0.0"
 	},
 	"changelog" :
 	{
-	"0.93"   : [ "Fixed bad ransparency pixels" ],
+	"0.93"   : [ "Fixed bad transparency pixels" ],
 	"0.92"   : [ "Fixed problem with map editor" ],
 	"0.91"   : [ "Adds Fountain of Fortune def", "Small fixes" ],
 	"0.9"   : [ "Initial release" ]
